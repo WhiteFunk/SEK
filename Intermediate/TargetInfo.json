@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SEK",
+			"Path": "D:\\UE_Progects\\0.Complete\\SEK\\Source\\SEK.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SEKEditor",
+			"Path": "D:\\UE_Progects\\0.Complete\\SEK\\Source\\SEKEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

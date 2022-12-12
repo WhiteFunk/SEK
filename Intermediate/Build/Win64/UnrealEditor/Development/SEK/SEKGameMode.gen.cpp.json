@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\unrealeditor\\inc\\sek\\sekgamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\sekeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\unrealeditor\\development\\sek\\definitions.sek.h",
+            "d:\\ue_progects\\0.complete\\sek\\source\\sek\\sekgamemode.h",
+            "d:\\epic games\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "d:\\epic games\\ue5\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "d:\\epic games\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "d:\\epic games\\ue5\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\unrealeditor\\inc\\sek\\sekgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\unrealeditor\\inc\\sek\\sek.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\sekeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\ue_progects\\0.complete\\sek\\intermediate\\build\\win64\\unrealeditor\\development\\sek\\definitions.sek.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
